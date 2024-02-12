@@ -1,16 +1,17 @@
-
-
+#load tasks from a text file
 def load_tasks():
     try:
-        with open("tasks.txt", "r") as file:
+        with open("tasks.txt", "r") as file: #open the text file and read existing tasks
             return file.readlines()
     except FileNotFoundError:
         return []
 
+# writes new tasks in a text file
 def save_tasks(tasks):
     with open("tasks.txt", "w") as file:
         file.writelines(tasks)
-
+        
+ #displays a list of all existing tasks
 def show_tasks():
     tasks = load_tasks()
     if not tasks:
@@ -19,13 +20,15 @@ def show_tasks():
         print("Tasks:")
         for i, task in enumerate(tasks, 1):
             print(f"{i}. {task.strip()}")
-
+            
+#adds new tasks to the ToDo List
 def add_task(task):
     tasks = load_tasks()
     tasks.append(task + "\n")
     save_tasks(tasks)
     print(f"Task '{task}' added successfully.")
-
+    
+# Remove the tasks from ToDo List that are completed
 def remove_task():
     tasks = load_tasks()
     if not tasks:
@@ -47,6 +50,7 @@ def remove_task():
 
 # Modify the main function to call remove_task without arguments
 def main():
+    # loop to display the funstion on running the file
     while True:
         print("\n1. Show Tasks\n2. Add Task\n3. Remove Task\n4. Quit")
         choice = input("Enter your choice (1/2/3/4): ")
