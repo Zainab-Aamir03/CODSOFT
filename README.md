@@ -14,7 +14,7 @@ The main purpose of To Do List is time management. While creating a To Do List y
 
 
 
-![my screenshot](C:\Users\Laptop House\Desktop)
+
 # Calculator:
 
 
