@@ -12,7 +12,7 @@ The main purpose of To Do List is time management. While creating a To Do List y
 •	Deadline of Tasks <br />
 •	Checkboxes** <br />
 In this task I have creaded a simple ToDo List that runs on the VS terminal. The basic functions are discussed below.<br />
-• **adding Task:** This function add new tasks to the list. <br />
+• **Adding Task:** This function add new tasks to the list. <br />
 •	**Removing Task:** This function removes the tasks from the list after completion.<br />
 •	**Displaying Tasks:** This function shows the task that are added to the list. <br />
 •	**Exiting the app:**  This function closes the app after on user input. <br />
