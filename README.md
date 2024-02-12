@@ -11,7 +11,9 @@ The main purpose of To Do List is time management. While creating a To Do List y
 •	Prriorities of Tasks<br />
 •	Deadline of Tasks <br />
 •	Checkboxes** <br />
-See the [ToDo List](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/To_do_list.py) code.
+See the [ToDo List](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/To_do_list.py) code here. <br />
+[Output](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/Todo%20list%20Output.PNG) of the code after running the file.
+[Text File](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/Todo%20list%20Txt%20file.PNG) where the task are saved after adding.
 
 
 
