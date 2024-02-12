@@ -10,7 +10,8 @@ The main purpose of To Do List is time management. While creating a To Do List y
 •**Tasks <br />
 •	Prriorities of Tasks<br />
 •	Deadline of Tasks <br />
-•	Checkboxes**
+•	Checkboxes** <br />
+See the [ToDo List](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/To_do_list.py) code.
 
 
 
