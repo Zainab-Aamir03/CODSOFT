@@ -22,12 +22,7 @@ See the [ToDo List](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/To_do_li
 
 <br />
 # Calculator:
-In this task I have created a simple operation that performs 4 basic operations of a calculator i-e 
- <br />
-• **Addition <br />
-•	Subtraction<br />
-•	Multiplication<br />
-•	Division** <br />
+
 
 
 
