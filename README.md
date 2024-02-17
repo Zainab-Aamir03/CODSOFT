@@ -28,7 +28,7 @@ In this task I have created a simple operation that performs 4 basic operations 
 •	Subtraction<br />
 •	Multiplication<br />
 •	Division** <br />
-See the [Caclulator Code here](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/Calculator.py) [Output of the code](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/calculator%20output.PNG) at VS terminal can be seen here. 
+See the [Caclulator Code here](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/Calculator.py). And [Output of the code](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/calculator%20output.PNG) at VS terminal can be seen here. 
 
 
 
