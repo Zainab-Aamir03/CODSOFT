@@ -28,7 +28,7 @@ In this task I have created a simple operation that performs 4 basic operations 
 •	Subtraction<br />
 •	Multiplication<br />
 •	Division** <br />
-On running the file it ask the users the operation that they want to perform on numbers by giving the user choices. After that it prompt the user about the total numbers that he want to perform operations at and then the take number input form the users and calculates the results and print it. The code can also handel the error if the user input is not correct and also an arthemetic error if the user tries to divide by Zero. <br />
+On running the file it ask the users the operation that they want to perform on numbers by giving the user choices. After that it prompt the user about the total numbers that he want to perform operations at and then the take number input form the users and calculates the results and print it. The code can also handle the error if the user input is not correct and also an arithmetic error if the user tries to divide by Zero. <br />
 See the [Caclulator Code here](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/Calculator.py). And [Output of the code](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/calculator%20output.PNG) at VS terminal can be seen here. 
 
 
