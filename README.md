@@ -20,9 +20,14 @@ See the [ToDo List](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/To_do_li
 [Output](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/Todo%20list%20Output.PNG) of the code after running the file.
 [Text File](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/Todo%20list%20Txt%20file.PNG) where the task are saved after adding.
 
-<br />
-# Calculator:
 
+# Calculator:
+In this task I have created a simple operation that performs 4 basic operations of a calculator i-e 
+ <br />
+• **Addition <br />
+•	Subtraction<br />
+•	Multiplication<br />
+•	Division** <br />
 
 
 
