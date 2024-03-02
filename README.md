@@ -33,7 +33,8 @@ See the [Caclulator Code here](https://github.com/Zainab-Aamir03/CODSOFT/blob/ma
 
 
 # Passward Generator:
-
+Password Generator is a simple program that generates the password for users according to their desire length.
+<br />
 
 
 
