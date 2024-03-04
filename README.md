@@ -35,6 +35,11 @@ See the [Caclulator Code here](https://github.com/Zainab-Aamir03/CODSOFT/blob/ma
 # Passward Generator:
 Password Generator is a simple program that generates the password for users according to their desire length.
 <br />
+In this program the user can either choose between 
+• **Letters <br />
+•	Digits<br />
+•	Special Characters<br />**
+to generate a random password. The [Code for Password Generator](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/Passward_generator.py) is here and you can see the [results on](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/Passward%20generator.PNG)
 
 
 
