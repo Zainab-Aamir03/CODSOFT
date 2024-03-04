@@ -39,7 +39,8 @@ In this program the user can either choose between
 • **Letters <br />
 •	Digits<br />
 •	Special Characters<br />**
-to generate a random password. The [Code for Password Generator](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/Passward_generator.py) is here and you can see the [results on](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/Passward%20generator.PNG)
+to generate a random password. The [Code for Password Generator](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/Passward_generator.py) is here and you can see the [results here.](https://github.com/Zainab-Aamir03/CODSOFT/blob/main/Passward%20generator.PNG)
+ <br /> 
 
 
 
